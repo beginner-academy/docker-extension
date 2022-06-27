@@ -1,11 +1,11 @@
 {
-  "icon": "ansible.svg",
+  "icon": "BA.png",
   "vm": {
     "composefile": "docker-compose.yaml"
   },
   "ui": {
     "dashboard-tab": {
-      "title": "Dive Into Ansible",
+      "title": "Beginner Academy Labs",
       "src": "index.html",
       "root": "ui"
     }

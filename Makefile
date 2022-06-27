@@ -1,4 +1,4 @@
-IMAGE?=spurin/diveintoansible-extension
+IMAGE?=beginneracademy/docker-extension
 TAG?=latest
 
 BUILDER=buildx-multi-arch
