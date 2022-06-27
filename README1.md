@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 ## Docker Extension
+=======
+
+
+Sangam
+
+## Dive Into Ansible Lab - Docker Extension
+>>>>>>> b8052b3e9c62d8647e36ea8dce0f64675c62ac45
 
 
 ### Installation of Docker Desktop Extension
